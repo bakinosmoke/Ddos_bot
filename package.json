@@ -1,0 +1,48 @@
+{
+  "name": "Rexzy ddos",
+  "version": "5.0.1",
+  "description": "ddos",
+  "main": "menu.js",
+  "author": "Rexzy",
+  "license": "MIT",
+  "scripts": {
+    "start": "node menu.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "adm-zip": "^0.5.16",
+    "archiver": "^7.0.1",
+    "axios": "^1.7.7",
+    "body-parser": "^2.2.0",
+    "chalk": "^5.3.0",
+    "cluster": "^0.7.7",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "dgram": "^1.0.1",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.1",
+    "gradient-string": "^2.0.2",
+    "hpack": "^1.0.0",
+    "http2": "^3.3.7",
+    "js-confuser": "^2.0.0",
+    "libphonenumber-js": "^1.11.8",
+    "mineflayer": "^4.20.1",
+    "net": "^1.0.2",
+    "nik-parser": "^1.0.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.4.0",
+    "proxy-agent": "^6.4.0",
+    "socks": "^2.8.3",
+    "split-file": "^2.3.0",
+    "ssh2": "^1.16.0",
+    "tls": "^0.0.1",
+    "unzipper": "^0.12.3",
+    "user-agents": "^1.1.294",
+    "yt-search": "^2.13.1",
+    "ytdl-core": "^4.11.5"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
